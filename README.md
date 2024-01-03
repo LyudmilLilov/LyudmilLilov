@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LyudmilLilov
-- 
 - 👀 My hobby is solving Rubik's cubes.
 - 🌱 I’m currently learning C#
 
