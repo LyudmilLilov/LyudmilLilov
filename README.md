@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LyudmilLilov
+- 👦15 years “old”
 - 👀 My hobby is to travel
 - 🌱 I’m currently learning C#
-- 👦15 years “old”
 - 👨‍🎓I am a student at Softuni
 - ⚡ Fun fact: I love to solve rubik's cube
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyudmillilov&label=Profile%20views&color=0e75b6&style=flat" alt="lyudmillilov" /> </p>
