@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @LyudmilLilov
-What about me 👷‍♂️!
+What about me!
 - 👦15 years “old”
 - 👀 My hobby is to travel
 - 🌱 I’m currently learning C#
